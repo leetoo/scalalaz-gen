@@ -14,21 +14,17 @@ Welcome to scalalaz-gen!
   
   `enc.length` - количество байт в mp3 (например `wc -c scalalaz-podcast-1.mp3`)
   
-  Забираем с доки контент, переводим в md, не забываем про тэги `audioCountrols` и `discus`
-  
+  Забираем с доки контент, переводим в md, вписываем название, дату и описание выпуска в формате:
+
+        # <Name> - Выпуск 10
+            - Опубликовано - 2017-02-05
+            - В этом выпуске: <Description>
+
+  и не забываем про тэг `<audio controls>`
+
 - темы и вопросы - копипастим последнюю и апаем цифру внутри тоже
  
 - генерим это все `sbt run`, все добро попадает в `target/site`
-  
-# Custom Markdown Tags #
-
-@:audioControls "http://link-to-mp3-file.mp3"
-
-- HTML audio controls attribute
-
-@:disqus.
-
-- Disqus based comments
 
 ## Contribution policy ##
 
