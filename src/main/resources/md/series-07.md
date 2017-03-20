@@ -4,7 +4,9 @@ enc.length=59484160
 page=http://scalalaz.ru/series-07.html
 date=2016-10-29
 ----
-# Выпуск 07
+# Новости, видео конференций и Scala митап в Москве - Выпуск 07
+1. Опубликовано - 2016-10-29
+2. В этом выпуске: Что было на Scala митап в Москве, интересные видеоролики (MTL, Emm, Generic Derivation, Pure Functional Database Programming) с LambdaConf, Scala world.
 
 <audio controls="" class="audio-panel">
     <source src="http://scalalaz.ru/mp3/scalalaz-podcast-7.mp3" type="audio/mpeg">

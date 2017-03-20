@@ -4,7 +4,9 @@ enc.length=107888659
 page=http://scalalaz.ru/series-08.html
 date=2016-11-13
 ----
-# Выпуск 08
+# Scala 2.12, Monad Transformers, Как прокачивать новичков? - Выпуск 08
+1. Опубликовано - 2016-11-13
+2. В этом выпуске: Выход Scala 2.12, обзор роликов про Monad Transformers и Freek, дискутируем про найм и новичков.
 
 <audio controls="" class="audio-panel">
     <source src="http://scalalaz.ru/mp3/scalalaz-podcast-8.mp3" type="audio/mpeg">

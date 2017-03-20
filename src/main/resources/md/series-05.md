@@ -4,7 +4,9 @@ enc.length=94574592
 page=http://scalalaz.ru/series-05.html
 date=2016-09-05
 ----
-# Выпуск 05
+#  ScalaJS и Spores - Выпуск 05
+1. Опубликовано - 2016-09-05
+2. В этом выпуске: Алексей Фомкин рассказывает о своем опыте использования ScalaJs в продакшене.
 
 <audio controls="" class="audio-panel">
     <source src="http://scalalaz.ru/mp3/scalalaz-podcast-5.mp3" type="audio/mpeg">

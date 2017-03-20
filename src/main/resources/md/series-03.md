@@ -4,7 +4,9 @@ enc.length=55527205
 page=http://scalalaz.ru/series-03.html
 date=2016-09-05
 ----
-# Выпуск 03
+# Функциональщина - Выпуск 03
+1. Опубликовано - 2016-09-05
+2. В этом выпуске: Scalaz и Cats
 
 <audio controls="" class="audio-panel">
     <source src="http://scalalaz.ru/mp3/scalalaz-podcast-3.mp3" type="audio/mpeg">

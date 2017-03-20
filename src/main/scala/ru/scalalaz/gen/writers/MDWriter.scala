@@ -108,7 +108,7 @@ case class MDWriter(from: String, to: String) {
 
   def writeListOfPosts(htmlData: List[HTMLData]): Unit = {
     val tHtml = default_template(
-        "no title",
+        "Scalalaz",
         ul(`class` := "post-list")(getPosts(htmlData)).toString,
         "" // empty disqus
     ).body
@@ -132,7 +132,7 @@ case class MDWriter(from: String, to: String) {
     val htmlData: List[HTMLData] = markdowns.map { mdData =>
       val nodes = knockoff(mdData.text)
       val html  = toXHTML(nodes).mkString
-      val tHtml = default_template("no title", html, disqusHtml).body
+      val tHtml = default_template("Scalalaz", html, disqusHtml).body
       HTMLData(tHtml, nodes, mdData.filename.split('.').head + ".html")
     }
 

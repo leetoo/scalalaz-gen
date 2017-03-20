@@ -4,7 +4,9 @@ enc.length=8649488
 page=http://scalalaz.ru/series-10.html
 date=2016-12-11
 ----
-# Выпуск 10
+# FP Conf, DC/OS, repl - Выпуск 10
+1. Опубликовано - 2016-12-11
+2. В этом выпуске: FP conf, опыт с DC/OS, зачем нужен repl?
 
 <audio controls="" class="audio-panel">
     <source src="http://scalalaz.ru/mp3/scalalaz-podcast-10.mp3" type="audio/mpeg">

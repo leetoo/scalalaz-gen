@@ -6,7 +6,7 @@ date=2017-01-22
 ----
 # Денис Михайлов о Liberator - Выпуск 13
 1. Опубликовано - 2017-01-22
-2. В этом выпуске: рассказ о Liberator, Freek и Onion 
+2. В этом выпуске: рассказ о Liberator, Freek и Onion
 
 <audio controls="" class="audio-panel">
     <source src="http://scalalaz.ru/mp3/scalalaz-podcast-13.mp3" type="audio/mpeg">

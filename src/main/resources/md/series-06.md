@@ -4,7 +4,9 @@ enc.length=122724352
 page=http://scalalaz.ru/series-06.html
 date=2016-10-16
 ----
-# Выпуск 06
+#  В гостях Дениc Михайлов и Григорий Помадчин, Onion Architecture for FP - Выпуск 06
+1. Опубликовано - 2016-10-16
+2. В этом выпуске: В месте с гостями обсуждаем, что же такое Onion Architecture в FP, где используется Shapeless, в чем разница между Streams, Actors, Futures.
 
 <audio controls="" class="audio-panel">
     <source src="http://scalalaz.ru/mp3/scalalaz-podcast-6.mp3" type="audio/mpeg">

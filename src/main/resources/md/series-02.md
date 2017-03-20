@@ -4,7 +4,9 @@ enc.length=70977833
 page=http://scalalaz.ru/series-02.html
 date=2016-08-21
 ----
-# Выпуск 02
+#  О Scaladays 2016 - Выпуск 02
+1. Опубликовано - 2016-08-21
+2. В этом выпуске: Рассказ о Scaladays 2016
 
 <audio controls="" class="audio-panel">
     <source src="http://scalalaz.ru/mp3/scalalaz-podcast-2.mp3" type="audio/mpeg">

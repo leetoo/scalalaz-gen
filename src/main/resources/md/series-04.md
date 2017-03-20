@@ -4,7 +4,9 @@ enc.length=45582510
 page=http://scalalaz.ru/series-04.html
 date=2016-09-20
 ----
-# Выпуск 04
+#  Scala для бизнеса, Удаленная работа - Выпуск 04
+1. Опубликовано - 2016-09-20
+2. В этом выпуске: Дискуссионные темы - как продемонстрировать необходимость Scala для бизнеса и преимущества и недостатки удаленной работы.
 
 <audio controls="" class="audio-panel">
     <source src="http://scalalaz.ru/mp3/scalalaz-podcast-4.mp3" type="audio/mpeg">
