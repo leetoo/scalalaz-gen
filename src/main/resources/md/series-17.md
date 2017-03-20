@@ -32,5 +32,3 @@ date=2017-03-19
 - [Гриша Помадчин](https://github.com/pomadchin)
 
 Гость - [Денис Шабалин](https://github.com/densh)
-
-@:disqus.
