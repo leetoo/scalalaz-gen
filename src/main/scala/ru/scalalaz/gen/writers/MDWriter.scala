@@ -69,8 +69,16 @@ case class MDWriter(from: String, to: String) {
   }
 
   def getDescriptionSpans(nodes: Seq[Block]): Option[Seq[Span]] = {
-    val descItems = nodes.find(_.isInstanceOf[OrderedList]).map {
-      case l: OrderedList => l.items
+    // is a first thing at markdown after title?
+    def isUnorderedListASecondNode(nodes: Seq[Block]) =
+      nodes.toVector(1).isInstanceOf[UnorderedList]
+
+    val descItems = if (isUnorderedListASecondNode(nodes)) {
+      nodes.find(_.isInstanceOf[UnorderedList]).map {
+        case l: UnorderedList => l.items
+      }
+    } else {
+      None
     }
 
     val descSpans = descItems.map {

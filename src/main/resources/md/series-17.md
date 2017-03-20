@@ -5,8 +5,8 @@ page=http://scalalaz.ru/series-17.html
 date=2017-03-19
 ----
 # Денис Шабалин про Scala-Native - Выпуск 17
-1. Опубликовано 2017-03-19
-2. В этом выпуске: Расспрашиваем Дениса Шабалина во всех подробностях о Scala-Native, EPFL. Еще немного про fs2-http для Королева.
+- Опубликовано 2017-03-19
+- В этом выпуске: Расспрашиваем Дениса Шабалина во всех подробностях о Scala-Native, EPFL. Еще немного про fs2-http для Королева.
 
 <audio controls="" class="audio-panel">
     <source src="http://scalalaz.ru/mp3/scalalaz-podcast-17.mp3" type="audio/mpeg">

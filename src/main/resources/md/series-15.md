@@ -5,8 +5,8 @@ page=http://scalalaz.ru/series-15.html
 date=2017-02-19
 ----
 # В гостях Владимир Павкин, ScalaJS - Выпуск 15
-1. Опубликовано 2017-02-05
-2. В этом выпуске: практический опыт ScalaJs
+- Опубликовано 2017-02-05
+- В этом выпуске: практический опыт ScalaJs
 
 <audio controls="" class="audio-panel">
     <source src="http://scalalaz.ru/mp3/scalalaz-podcast-15.mp3" type="audio/mpeg">

@@ -5,8 +5,8 @@ page=http://scalalaz.ru/series-01.html
 date=2016-08-07
 ----
 # Pants, Sbt - Выпуск 01
-1. Опубликовано - 2016-08-07
-2. В этом выпуске: Pants как альтернатива sbt и по чему его используют.
+- Опубликовано - 2016-08-07
+- В этом выпуске: Pants как альтернатива sbt и по чему его используют.
 
 <audio controls="" class="audio-panel">
     <source src="http://scalalaz.ru/mp3/scalalaz-podcast-1.mp3" type="audio/mpeg">

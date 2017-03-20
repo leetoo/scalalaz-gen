@@ -5,8 +5,8 @@ page=http://scalalaz.ru/series-11.html
 date=2016-12-25
 ----
 # FuncBy 2016, Королев, Recursion schemes - Выпуск 11
-1. Опубликовано - 2016-12-25
-2. В этом выпуске: Подводим итоги FuncBy 2016, обзор фреймворка Королев и идей за ним, что такое recursion schemes и Matryoshka.
+- Опубликовано - 2016-12-25
+- В этом выпуске: Подводим итоги FuncBy 2016, обзор фреймворка Королев и идей за ним, что такое recursion schemes и Matryoshka.
 
 <audio controls="" class="audio-panel">
     <source src="http://scalalaz.ru/mp3/scalalaz-podcast-11.mp3" type="audio/mpeg">
